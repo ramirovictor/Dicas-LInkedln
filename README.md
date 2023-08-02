@@ -8,7 +8,7 @@ O e-book contém 19 dicas práticas para você assumir o controle na busca por e
 
 ## ⭐ Como baixar o e-book
 
-Você pode baixar o e-book em formato PDF diretamente através deste link: [Baixar E-book](link_do_arquivo_pdf).
+Você pode baixar o e-book em formato PDF diretamente através deste link: [Baixar E-book](https://github.com/ramirovictor/Dicas-LInkedln/blob/main/LinkedIn%20Profissional.pdf).
 
 ## 🤝 Contribuindo
 
