@@ -16,14 +16,12 @@ Se você encontrar erros, tiver sugestões de melhorias ou quiser contribuir com
 
 ## 📄 Licença
 
-Este e-book está licenciado sob a licença [Licença MIT](link_para_a_licenca). Isso significa que você é livre para usar, copiar, modificar e distribuir o e-book, desde que mantenha os créditos e a licença original.
-
+Este e-book está licenciado sob a licença [Licença CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode). 
 ## 📧 Contato
 
-Se tiver alguma dúvida ou quiser entrar em contato comigo, fique à vontade para enviar uma mensagem pelo LinkedIn ou por e-mail: seuemail@example.com.
+Se tiver alguma dúvida ou quiser entrar em contato comigo, fique à vontade para enviar uma mensagem pelo LinkedIn ou por e-mail: ramirovictor3@gmail.com.
 
-Espero que o e-book seja útil para você em sua jornada profissional no LinkedIn. Aproveite as dicas e sucesso em sua carreira!
+Espero que o e-book seja útil para você em sua jornada profissional no LinkedIn.
 
 Um forte abraço,
-Seu Nome (He/Him)
-Software Engineer | Java Developer | Java, Spring Boot, JPA, Hibernate | Backend, Microservices
+
