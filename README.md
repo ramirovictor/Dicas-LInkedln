@@ -1,8 +1,6 @@
-# E-book: LinkedIn Profissional - Guia Completo para o Sucesso na Carreira
+# E-book: LinkedIn Profissional - LinkedIn Profissional: 19 dicas práticas para dominar o poder do LinkedIn
 
-Olá a todos!
-
-Este é um e-book repleto de dicas valiosas sobre como dominar o poder do LinkedIn e alavancar sua carreira na área de Tecnologia da Informação (TI). As dicas são baseadas em minha experiência como Software Engineer e Java Developer, e tenho certeza de que serão úteis tanto para iniciantes quanto para profissionais experientes que desejam otimizar sua presença na plataforma.
+Este é um e-book repleto de dicas valiosas sobre como dominar o poder do LinkedIn e alavancar sua carreira na área de Tecnologia da Informação (TI). As dicas são baseadas em minha experiência como Software Engineer e Java Developer, e acredito que serão úteis tanto para iniciantes quanto para profissionais experientes que desejam otimizar sua presença na plataforma.
 
 ## 📚 Conteúdo
 
